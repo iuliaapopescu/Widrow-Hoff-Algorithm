@@ -12,7 +12,7 @@ Initialize weights with an array of zeros
 
 In each epoch:
 
->Step 3.1
+>>Step 3.1
 
 Shuffle the training data `X, y = shuffle(X, y)`
 
